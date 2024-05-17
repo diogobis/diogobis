@@ -1,18 +1,21 @@
 <svg fill="none" viewBox="0 0 400 400" width="400" height="200" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
-        <div style="display: grid; grid-template-columns: 1fr 1fr 1fr">
-          <div>
-            <h4 style="margin: none;"><strong>Estágio como desenvolvedor web</strong></h4>
-            <h6>APERAM SOUTH AMERICA  -  ago. 2022 a dez. 2023</h6>
-          </div>
-          <div>
-            <h4 style="margin: none;"><strong>Cursando Engenharia de Software</strong></h4>
-            <h6>UNILESTE MG  -  2023 a 2026</h6>
-          </div>
-          <div>
-            <h4 style="margin: none;"><strong>Curso técnico em Desenvolvimento de Sistemas</strong></h4>
-            <h6>CEFET-MG  -  2019 a 2021</h6>
-          </div>
+        
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <div style="display: grid; grid-template-columns: 1fr 1fr 1fr">
+              <div>
+                <h4 style="margin: none;"><strong>Estágio como desenvolvedor web</strong></h4>
+                <h6>APERAM SOUTH AMERICA  -  ago. 2022 a dez. 2023</h6>
+              </div>
+              <div>
+                <h4 style="margin: none;"><strong>Cursando Engenharia de Software</strong></h4>
+                <h6>UNILESTE MG  -  2023 a 2026</h6>
+              </div>
+              <div>
+                <h4 style="margin: none;"><strong>Curso técnico em Desenvolvimento de Sistemas</strong></h4>
+                <h6>CEFET-MG  -  2019 a 2021</h6>
+              </div>
+            </div>
         </div>
     </foreignObject>
 </svg>
