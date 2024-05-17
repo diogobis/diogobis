@@ -1,21 +1,50 @@
-<svg fill="none" viewBox="0 0 400 400" width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         
         <div xmlns="http://www.w3.org/1999/xhtml">
-            <div style="display: grid; grid-template-columns: 1fr 1fr 1fr">
-              <div>
-                <h4 style="margin: none;"><strong>Estágio como desenvolvedor web</strong></h4>
-                <h6>APERAM SOUTH AMERICA  -  ago. 2022 a dez. 2023</h6>
+            <div class="wrapper">
+              <div class="card">
+                <span class="card-title"><strong>Estágio como desenvolvedor web</strong></span>
+                <span class="card-sub">APERAM SOUTH AMERICA  -  ago. 2022 a dez. 2023</span>
               </div>
-              <div>
-                <h4 style="margin: none;"><strong>Cursando Engenharia de Software</strong></h4>
-                <h6>UNILESTE MG  -  2023 a 2026</h6>
+              <div class="card">
+                <span class="card-title"><strong>Cursando Engenharia de Software</strong></span>
+                <span class="card-sub">UNILESTE MG  -  2023 a 2026</span>
               </div>
-              <div>
-                <h4 style="margin: none;"><strong>Curso técnico em Desenvolvimento de Sistemas</strong></h4>
-                <h6>CEFET-MG  -  2019 a 2021</h6>
+              <div class="card">
+                  <span class="card-title"><strong>Curso técnico em Desenvolvimento de Sistemas</strong></span>
+                  <span class="card-sub">CEFET-MG  -  2019 a 2021</span>
               </div>
             </div>
+            <style>
+                * {
+                    color: white;
+                }
+
+                .wrapper {
+                    display: grid;
+                    grid-template-columns: 1fr 1fr 1fr;
+                    gap: 12px;
+                }
+
+                .card {
+                    background-color: rgb(31,31,31);
+                    border: 1px solid rgb(51,51,51);
+                    border-radius: 12px;
+                    text-align: center;
+                    padding: 8px;
+                }
+    
+                .card-title {
+                    font-size: 18px;
+                    text-align:center;
+                }
+
+                .card-sub {
+                    font-size: 12px;
+                    text-align: center;
+                }
+            </style>
         </div>
     </foreignObject>
 </svg>
