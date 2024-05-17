@@ -41,5 +41,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ligeirin&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" width="40%">
 </div>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligeirin&layout=compact&theme=dark" alt="Linguagens Utilizadas" width="40%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligeirin&layout=compact&theme=dark&hide=css,scss,html" alt="Linguagens Utilizadas" width="40%">
 </div>
