@@ -14,6 +14,7 @@
     <img src="https://github.com/ligeirin/ligeirin/blob/main/info.svg" width="1000" height="300" alt="css-in-readme">
 </div>-->
 
+<!--
 <div align="center">
 <h3><strong>Estágio como Desenvolvedor Full Stack</strong></h3>
 <h6>
@@ -32,6 +33,7 @@
   CEFET-MG | 2019 - 2021
 </h6>
 </div>
+-->
 
 <br>
 
